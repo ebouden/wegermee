@@ -16,3 +16,4 @@ Lines was added in branch1
 Line added in branch2
 
 First line added in branch3
+2nd line added to branch3
