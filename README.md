@@ -8,4 +8,6 @@ pencil icon in the upper right corner of the file view to edit.
 In the editor, write a bit about yourself.
 Write a commit message that describes your changes.
 Click Commit changes button.
-Added this line
+Added this line in remote, then pulled
+add this in local, then pushed
+
