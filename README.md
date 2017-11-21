@@ -13,3 +13,4 @@ Added this line in remote, then pulled
 add this in local, then pushed
 
 Lines was added in branch1
+Line added in branch2
